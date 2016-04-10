@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Ecology of Technology]]></title>
         <description><![CDATA[The Ecology of Technology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-ecology-of-technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:13:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 23:13:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-ecology-of-technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ecology of Technology for Wisdom 2.0 People's Stage]]></title>
+            <description><![CDATA[<article><h1>The Ecology of Technology for Wisdom 2.0 People's Stage</h1><p>The Ecology of Technology - Where Mindfulness is not enough Technology has now penetrated almost all aspects of our lives but we have yet to adapt to it in a way that serves us. We want to introduce the Ecology of Technology as framework that helps us do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07a5275b8632757b9123923003b2310bca28b147.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SrsGTSZ49Tk</link>
+            <guid isPermaLink="false">e69b59dd-3838-4fe9-ad92-4431a25f6153</guid>
+            <pubDate>Sun, 10 Apr 2016 23:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to the Ecology of Technology]]></title>
             <description><![CDATA[<article><h1>Welcome to the Ecology of Technology</h1><p>Welcome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66b5f7d354d505fea42a0a8980f8cbcc1e8bbfde.png"></article>]]></description>
-            <link>undefinedwelcome-to-the-ecology-of-technology/index.html</link>
+            <link>https://thegrid.ai/the-ecology-of-technology/welcome-to-the-ecology-of-technology/index.html</link>
             <guid isPermaLink="false">6c0597ce-5b24-4c53-99ca-d9e1fae68796</guid>
             <pubDate>Sun, 10 Apr 2016 23:12:37 GMT</pubDate>
         </item>
