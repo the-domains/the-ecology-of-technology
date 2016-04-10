@@ -1,7 +1,7 @@
 name: The Ecology of Technology
 favicon: null
-layout_spectrum: 0.3306603031232953
-typography_spectrum: 0.8533594182226807
+layout_spectrum: 0.30821
+typography_spectrum: 0.77639
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#380d38'
+    - '#8ac33f'
+    - '#80287a'
+    - '#c6d929'
   brandStrength: 0.951404519379139
   lightness: 0.9904071262571961
   saturation: 0.21380541031248868
