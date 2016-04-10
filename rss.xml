@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Ecology of Technology]]></title>
+        <description><![CDATA[The Ecology of Technology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 23:13:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the Ecology of Technology]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Ecology of Technology</h1><p>Welcome</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66b5f7d354d505fea42a0a8980f8cbcc1e8bbfde.png"></article>]]></description>
+            <link>undefinedwelcome-to-the-ecology-of-technology/index.html</link>
+            <guid isPermaLink="false">6c0597ce-5b24-4c53-99ca-d9e1fae68796</guid>
+            <pubDate>Sun, 10 Apr 2016 23:12:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
